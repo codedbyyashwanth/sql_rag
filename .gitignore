@@ -13,3 +13,4 @@ wheels/
 # Custom files
 TODO.txt
 playground/
+*.db
